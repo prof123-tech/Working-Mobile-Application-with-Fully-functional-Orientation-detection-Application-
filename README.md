@@ -1,4 +1,4 @@
-# Working-Mobile-Application-with-Fully-functional-Orientation-detection-Application-
+Working-Mobile-Application-with-Fully-functional-Orientation-detection-Application-
 Distinct Modes: Alarm Clock ( Portrait) Stop Watch ( LandScape) Timer (Portrait Upsidedown), Weather (Landscape Left) Proffesional UI/UX with smooth animations and glass morphisms design  Touch-Optimized for Mobile Devices with Haptic feedbacks 
 Key Features Implemented:
 
@@ -14,3 +14,4 @@ Key Features Implemented:
  6.Touch Optimized - 44px+ touch targets, haptic feedback
 
 7.Responsive Design - Works on all screen sizes
+
